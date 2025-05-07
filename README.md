@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtomicKnot19XX
 - 👀 I’m interested in Learning how to make apps and video games one day.
-- 🌱 I’m currently learning how to do the basics.
+- 🌱 I’m currently learning how to do the basics of C++, JS, and HTML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him/His
